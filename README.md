@@ -1,1 +1,1 @@
-OOP ve Java'da öğrendiklerimi pejiştirmek için basit bir ATM uygulaması yaptım.
+OOP ve Java'da öğrendiklerimi pekiştirmek için basit bir ATM uygulaması yaptım.
